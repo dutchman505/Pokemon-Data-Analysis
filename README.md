@@ -31,19 +31,19 @@ This project takes a deep dive into the Pokemon universe through the lens of dat
 
 ### 1. Legendary Pokemon Analytical Dashboard
 An overarching multi-panel dashboard comparing special attack, speed, and cross-metric performance of top legendary Pokemon (Mewtwo, Rayquaza, Deoxys, Giratina, Kyurem).
-![Legendary Dashboard](dashboard/dashboard.png)
+![Legendary Dashboard](images/dashboard.png)
 
 ### 2. Height & Weight Correlation
 A scatter plot with a regression trendline demonstrating the positive correlation (r = 0.63) between a Pokemon's height and its weight.
-![Height vs Weight Correlation](dashboard/korelyasiya.png)
+![Height vs Weight Correlation](images/korelyasiya.png)
 
 ### 3. Base Total Density (Legendary vs. Non-Legendary)
 Kernel Density Estimation (KDE) highlighting the distinct power gap and distribution shift between regular Pokemon and legendary powerhouses.
-![Base Total Density](dashboard/base+total+density.png)
+![Base Total Density](images/base+total+density.png)
 
 ### 4. Defense Distribution by Type
 A comprehensive boxplot analysis ranking Pokemon types (Type 1 & Type 2) by their defense capabilities, showing median values, quartiles, and outliers.
-![Defense Boxplot](dashboard/defense+boxplot.png)
+![Defense Boxplot](images/defense+boxplot.png)
 
 ---
 
