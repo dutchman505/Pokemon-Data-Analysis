@@ -39,11 +39,11 @@ A scatter plot with a regression trendline demonstrating the positive correlatio
 
 ### 3. Base Total Density (Legendary vs. Non-Legendary)
 Kernel Density Estimation (KDE) highlighting the distinct power gap and distribution shift between regular Pokemon and legendary powerhouses.
-![Base Total Density](images/base+total+density.png)
+![Base Total Density](images/base_total_density.png)
 
 ### 4. Defense Distribution by Type
 A comprehensive boxplot analysis ranking Pokemon types (Type 1 & Type 2) by their defense capabilities, showing median values, quartiles, and outliers.
-![Defense Boxplot](images/defense+boxplot.png)
+![Defense Boxplot](images/defense_boxplot.png)
 
 ---
 
